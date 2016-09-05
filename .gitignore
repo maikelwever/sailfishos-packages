@@ -1,0 +1,7 @@
+*
+
+!.gitignore
+!*.spec
+!*.changes
+
+!python3-netifaces
